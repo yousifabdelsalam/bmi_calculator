@@ -1,16 +1,36 @@
-# bmi_calculator
+# [bmi_calculator] - Flutter Mobile App
 
-A new Flutter project.
+<image-card alt="App Screenshot" src="gg.jpg" ></image-card>  # Upload screenshots to a /screenshots folder in the repo
 
-## Getting Started
+## Description
+A cross-platform mobile app built with Flutter for [brief purpose, e.g., fetching real-time news with search and favorites].
 
-This project is a starting point for a Flutter application.
+## Features
+- Real-time search with debouncing and BLoC/Cubit state management
+- API integration (e.g., NewsAPI or FakeStoreAPI)
+- Local storage for favorites using path_provider or sqflite
+- Custom widgets like reusable TextFormField
+- Camera functionality for [if applicable, e.g., subject-based note-taking]
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies
+- Flutter & Dart
+- State Management: BLoC/Cubit
+- Packages: http, provider, camera, saver_gallery, etc.
+- APIs: [List any]
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
+1. Clone the repo: `git clone https://github.com/your-username/repo-name.git`
+2. Run `flutter pub get`
+3. Run `flutter run` for development or `flutter build apk` for release.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<image-card alt="Search Screen" src="screenshots/search.png" ></image-card>
+<image-card alt="Home Layout" src="screenshots/home.png" ></image-card>
+
+## What I Learned
+- Optimized UI rebuilds to prevent text disappearance in search fields
+- Handled type errors in API parsing (e.g., List<dynamic> to Map)
+- Managed navigation with Navigator.pushReplacement without state loss
+
+## License
+MIT License (or choose one)
