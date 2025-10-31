@@ -64,7 +64,7 @@ A **clean, responsive BMI calculator** built with **Flutter** that lets users se
 Transparency builds trust. This project proves I can **follow structured learning, execute cleanly, and deliver a working app**
 
 ## 🔗 Links
-> - **APK Download**: See [Releases]
+> - **APK Download**: See Releases
 > - **LinkedIn Profile**: https://www.linkedin.com/in/yousif-abdelsalam/
 
 📄 License
