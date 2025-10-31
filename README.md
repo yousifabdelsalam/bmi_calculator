@@ -42,3 +42,23 @@ A **clean, responsive BMI calculator** built with **Flutter** that lets users se
 | `flutter_slider`| Height input |
 
 ---
+
+## 🎯 What I Learned
+- **Implementing interactive sliders and button feedback**
+- **Creating reusable custom widgets for a consistent look**
+- **Navigating between screens with Navigator.push**
+- **Handling unit conversion (cm → m) for accurate BMI math**
+
+## 🎓 Learning Context
+
+> **This app was built while following the https://www.udemy.com/course/complete-flutter-arabic/?couponCode=KEEPLEARNINGOCTA**  
+> I completed it as part of my self-paced Flutter learning journey to master:
+> - Widget composition & custom UI components
+> - State management with `setState`
+> - Navigation between screens
+> - Responsive layouts using `Expanded`, `Container`, and `Slider`
+>
+> **All code is written by me line-by-line** — no copy-paste. I typed, debugged the design (colors, icons, layout tweaks) to reinforce understanding.
+
+**Why share this?**  
+Transparency builds trust. This project proves I can **follow structured learning, execute cleanly, and deliver a working app**
